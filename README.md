@@ -2,6 +2,14 @@
 
 Unofficial practice exam and reviewer for **MS-102: Microsoft 365 Administrator**, built from `ms-102.pdf` in this folder.
 
+## About this reviewer
+
+This is a personal study aid for learning the MS-102 skills. It is meant for understanding the concepts, not for memorizing answers.
+
+- It is not affiliated with, endorsed by or sponsored by Microsoft. It does not claim to contain questions from the live exam, and it does not promise a pass.
+- The practice questions were transcribed from a third-party practice PDF. The explanations, the notes on each wrong option, the takeaways and the Microsoft Learn links were written for this reviewer, to teach why each answer fits.
+- Use it alongside the official [MS-102 study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-102) and the Microsoft Learn training for the exam.
+
 ## How to run
 
 - **Online:** https://projectvelox.github.io/ms-102-reviewer/
